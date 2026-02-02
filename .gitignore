@@ -1,0 +1,29 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+
+# Results and test outputs
+results/
+
+# Test files
+test-*.js
+check-*.js
+analyze-*.js
+validate-*.js
+generate-*.js
+run-*.js
+simple-*.js
+final-*.js
+
+# Credentials
+Credential/
+*.json.backup
+
+# OS files
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
