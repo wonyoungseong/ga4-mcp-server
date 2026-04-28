@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/wonyoungseong-ga4-mcp-server-badge.png)](https://mseep.ai/app/wonyoungseong-ga4-mcp-server)
+
 # GA4 MCP Server
 
 A Model Context Protocol (MCP) server for Google Analytics 4 (GA4) that provides tools for querying GA4 data through the Admin API and Data API.
